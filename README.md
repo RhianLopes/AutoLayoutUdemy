@@ -1,4 +1,8 @@
-# Auto Layout
+# 📖 Auto Layout
+
+The Auto Layout is a app to study about constraints on layout, so with the constraints we can defined where the layout was fixed on the screen of any size. The goal with this app is to learn the development of IOS.
+
+This app was built with the IOS 12 Development course, at Udemy, by instructor Jamilton Damasceno. This is my first IOS app and my first contact with Swift, I hope you like it 🙂.
 
 ## :balloon: Preview
 
